@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: 1.1.rem;
+    margin-right: 70px;
+}
+
+.header i{
+    font-size: 1.1rem;
+    margin-right: 10px;
+}
+
+.header .logo{
+    max-height: 45px;
+    margin-left: 60px;
+}
+
+.header .title-group{
+    margin-left: 10px;
+}
